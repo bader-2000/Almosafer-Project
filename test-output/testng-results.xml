@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="11" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-26T12:30:29 EET" name="Default suite" finished-at="2024-06-26T12:30:58 EET" duration-ms="28599">
+    <groups>
+    </groups>
+    <test started-at="2024-06-26T12:30:29 EET" name="Default test" finished-at="2024-06-26T12:30:58 EET" duration-ms="28599">
+      <class name="almosafer.almosaferTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:almosafer.almosaferTestCases@51850751]" started-at="2024-06-26T12:30:29 EET" name="setUp" finished-at="2024-06-26T12:30:32 EET" duration-ms="3104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkChangeTheLanguageTheWebSiteRandomly()[pri:7, instance:almosafer.almosaferTestCases@51850751]" started-at="2024-06-26T12:30:32 EET" name="checkChangeTheLanguageTheWebSiteRandomly" finished-at="2024-06-26T12:30:33 EET" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkChangeTheLanguageTheWebSiteRandomly -->
+        <test-method signature="checkChangeTheSwitchHotelTapRandomly()[pri:8, instance:almosafer.almosaferTestCases@51850751]" started-at="2024-06-26T12:30:33 EET" name="checkChangeTheSwitchHotelTapRandomly" finished-at="2024-06-26T12:30:33 EET" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkChangeTheSwitchHotelTapRandomly -->
+        <test-method signature="checkChangeRandomlyForPerson()[pri:9, instance:almosafer.almosaferTestCases@51850751]" started-at="2024-06-26T12:30:33 EET" name="checkChangeRandomlyForPerson" finished-at="2024-06-26T12:30:37 EET" duration-ms="4062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkChangeRandomlyForPerson -->
+        <test-method signature="checkWaitToFullyParAPI()[pri:10, instance:almosafer.almosaferTestCases@51850751]" started-at="2024-06-26T12:30:37 EET" name="checkWaitToFullyParAPI" finished-at="2024-06-26T12:30:54 EET" duration-ms="16995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWaitToFullyParAPI -->
+        <test-method signature="checkSortLowstPrices()[pri:11, instance:almosafer.almosaferTestCases@51850751]" started-at="2024-06-26T12:30:54 EET" name="checkSortLowstPrices" finished-at="2024-06-26T12:30:58 EET" duration-ms="3295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSortLowstPrices -->
+      </class> <!-- almosafer.almosaferTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
